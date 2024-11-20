@@ -8,9 +8,9 @@ Djamel MOAD Rendue
 <a href="https://github.com/app-generator/django-soft-ui-dashboard"><strong>Documentation Django Soft UI Dashboard »</strong></a> <br /> 
 <a href="https://github.com/app-generator/flask-soft-ui-design">Documentation Flask Soft UI Design</a> · 
 <a href="https://github.com/app-generator/ecommerce-flask-stripe">Documentation Ecommerce Flask Stripe</a> · 
-<a href="https://github.com/app-generator/rocket-django">Documentation Rocket Django</a> </p> </div>
+<a href="[https://github.com/app-generator/flask-material-dashboard.git">Documentation Flask Material DashBoard</a> </p> </div>
 
-
+https://github.com/app-generator/flask-material-dashboard.git
 
 <!-- TABLE OF CONTENTS --> <details> <summary>Table des matières</summary> <ol> <li><a href="#structure-du-projet">Structure du projet</a></li> <li><a href="#configurations">Configurations</a></li> 
 <li><a href="#etape-du-build">Étape du build</a></li> <li><a href="#logs">Logs</a></li> <li><a href="#quelques-interfaces">Quelques Interfaces</a></li> </ol> </details>
@@ -205,23 +205,16 @@ ou
 ``` bash
 docker ps -a
 ```
-. Screen présentant les conteneurs en cours d'exécution
+. Screen présentant les conteneurs en cours d'exécution (a update)
 
 ![alt text](screens/dockerps.png)
 
-Testez vos applications en local sur les ports suivants:
+Testez vos applications en local sur les ports suivants: ( a update) 
   <ul>
     <li><a href="#http://localhost:7010">http://localhost:7010</a></li>
     <li><a href="#http://localhost:7011">http://localhost:7011</a></li>
     <li><a href="#http://localhost:7012">http://localhost:7012</a></li>
-    <li><a href="#http://localhost:7013">http://localhost:7013</a></li>
-    <li><a href="#http://localhost:80">http://localhost:80</a></li>
-    <li><a href="#http://localhost:81">http://localhost:81</a></li>
-    <li><a href="#http://localhost:82">http://localhost:82</a></li>
-    <li><a href="#http://localhost:83">http://localhost:83</a></li>
-    <li><a href="#http://localhost:84">http://localhost:84</a></li>
-    <li><a href="#http://localhost:85">http://localhost:85</a></li>
-    <li><a href="#http://localhost:86">http://localhost:86</a></li>
+
   </ul>
 
 4- Pushez vos images sur le docker hub
@@ -250,11 +243,11 @@ docker push your_username/nom_image:tag_name_for_hub
 ```
 
 
-. Screen présentant les logs obtenus lors d'un push
+. Screen présentant les logs obtenus lors d'un push (a update)
 
 ![alt text](screen/Dashard.png)
 
-. Docker Hub repositories
+. Docker Hub repositories (a update)
 
 ![alt text](screens/hub.png)
 
@@ -272,7 +265,7 @@ docker push your_username/nom_image:tag_name_for_hub
 
 ![alt text](screen/SoftDashborad.png)
 
-. flask-black-dashboard
+. flask-black-dashboard (a update)
 
 ![alt text](screens/app3.png)
 
