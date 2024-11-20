@@ -184,7 +184,7 @@ docker push your_username/nom_image:tag_name_for_hub
 
 . Docker Hub repositories
 
-![alt text](screen/GitHubRepository.png)
+![alt text](screen/GitHubRepository.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
