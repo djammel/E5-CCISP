@@ -178,13 +178,13 @@ docker push your_username/nom_image:tag_name_for_hub
 ```
 
 
-. Screen présentant les logs obtenus lors d'un push (a update)
+. Screen présentant les images
 
-![alt text](screen/Dashard.png)
+![alt text](screen/lesimages.png)
 
 . Docker Hub repositories (a update)
 
-![alt text](screens/hub.png)
+![alt text](screens/docker.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
