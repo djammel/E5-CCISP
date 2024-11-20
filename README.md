@@ -131,9 +131,6 @@ docker images
 docker ps
 ```
 
-. Screen présentant les conteneurs en cours d'exécution
-
-![alt text](screen/execution.png)
 
 ``` bash
 docker ps
