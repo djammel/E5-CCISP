@@ -223,4 +223,4 @@ Ces frameworks sont légers, simples à prendre en main et proposent des exemple
 
 ## Diagramme Projet
 
-![alt text](screen/Shema3.png)
+![alt text](screen/Schema3.png)
