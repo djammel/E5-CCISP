@@ -264,11 +264,11 @@ docker push your_username/nom_image:tag_name_for_hub
 <!-- INTERFACES -->
 ## Quelques interfaces
 
-. ecommerce-fastapi-stripe
+. Soft UI Dashboard3
 
 ![alt text](screen/Dashboard.png)
 
-. ecommerce-flask-stripe
+. Soft UI Dashboard
 
 ![alt text](screen/SoftDashborad.png)
 
