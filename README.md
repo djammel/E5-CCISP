@@ -133,7 +133,7 @@ docker ps
 
 . Screen présentant les images
 
-![alt text](screens/image.png)
+![alt text](screen/DockerImage.png)
 
 ``` bash
 docker ps
@@ -229,4 +229,4 @@ Ces frameworks sont légers, simples à prendre en main et proposent des exemple
 
 ## Diagramme Projet
 
-![alt text](screen/shema.png)
+![alt text](screen/shema1.png)
