@@ -296,6 +296,6 @@ Robuste et bien structuré pour des projets évolutifs.
 Offre des fonctionnalités prédéfinies pour un développement rapide.
 Ces frameworks sont légers, simples à prendre en main et proposent des exemples pratiques pour accélérer le développement tout en assurant une qualité professionnelle.
 
-## Diagramme iac
+## Diagramme Projet
 
-![alt text](screens/iac.png)
+![alt text](screen/shema.png)
