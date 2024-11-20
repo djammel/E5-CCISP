@@ -252,7 +252,7 @@ docker push your_username/nom_image:tag_name_for_hub
 
 . Screen présentant les logs obtenus lors d'un push
 
-![alt text](screens/pushes.png)
+![alt text](screen/Dashboard.png)
 
 . Docker Hub repositories
 
@@ -266,7 +266,7 @@ docker push your_username/nom_image:tag_name_for_hub
 
 . ecommerce-fastapi-stripe
 
-![alt text](screens/app1.png)
+![alt text](screen/Dashboard.png)
 
 . ecommerce-flask-stripe
 
