@@ -182,9 +182,9 @@ docker push your_username/nom_image:tag_name_for_hub
 
 ![alt text](screen/lesimages.png)
 
-. Docker Hub repositories (a update)
+. Docker Hub repositories
 
-![alt text](screens/docker.png)
+![alt text](screens/GitHubRepository.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
