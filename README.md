@@ -131,9 +131,9 @@ docker images
 docker ps
 ```
 
-. Screen présentant les images
+. Screen présentant les conteneurs en cours d'exécution
 
-![alt text](screen/DockerImage.png)
+![alt text](screen/execution.png)
 
 ``` bash
 docker ps
@@ -142,11 +142,8 @@ ou
 ``` bash
 docker ps -a
 ```
-. Screen présentant les conteneurs en cours d'exécution (a update)
 
-![alt text](screens/dockerps.png)
-
-Testez vos applications en local sur les ports suivants: ( a update) 
+Testez vos applications en local sur les ports suivants: 
   <ul>
     <li><a href="#http://localhost:5080">http://localhost:7010</a></li>
     <li><a href="#http://localhost:5081">http://localhost:7011</a></li>
