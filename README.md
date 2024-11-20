@@ -277,11 +277,24 @@ docker push your_username/nom_image:tag_name_for_hub
 ![alt text](screens/app3.png)
 
 
-## Docker
+## Choix des frameworks
 
-1. La solution docker dans ce projet nous permet d'optimiser notre déploiement en minimisant le temps du build pour la mise en production tout en maintenant la portabilité de notre infrastructure en cas de changement.
 
-2. Docker s'inscrit dans la méthodologie DevOps en facilitant l'intégration continue et le déploiement automatique des applications en passant par la conteneurisation des applications (packaging), le gain de temps lors du déploiement grâce à l'automatisation et la création des pipelines CI/CD, la portabilité et la sécurité des applications.
+Flask Soft UI Design
+
+Léger et facile à utiliser.
+Fournit une interface utilisateur moderne et personnalisable.
+
+Ecommerce Flask Stripe
+
+Simplifie l'intégration des paiements avec Stripe.
+Idéal pour les projets de commerce électronique.
+
+Rocket Django
+
+Robuste et bien structuré pour des projets évolutifs.
+Offre des fonctionnalités prédéfinies pour un développement rapide.
+Ces frameworks sont légers, simples à prendre en main et proposent des exemples pratiques pour accélérer le développement tout en assurant une qualité professionnelle.
 
 ## Diagramme iac
 
